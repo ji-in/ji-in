@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Ji In Kim 👋
+
+I'm studying for master of engineering.
+
+I'm major in computer vision.
+
+I’m currently learning machine learning, computer vision and natural language processing.
 
 <!--
 **ji-in/ji-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
