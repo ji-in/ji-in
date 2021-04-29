@@ -6,6 +6,8 @@ I'm major in computer vision.
 
 I’m currently learning machine learning, computer vision and natural language processing.
 
+자신이 짠 쓰레기 코드를 쳐다보며 나중에 손보겠다고 생각한 경험이 있다. **나중은 결코 오지 않는다.**
+- 르블랑의 법칙 -
 <!--
 **ji-in/ji-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
