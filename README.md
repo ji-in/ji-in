@@ -1,7 +1,7 @@
 ### Hi, I'm Ji In Kim 👋
 
-I'm data scientist.
-I'm currently studying generation model with face images.
+💻 I'm data scientist.  
+😀 I'm currently studying generation model with face images.
 
 <!--
 **ji-in/ji-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
