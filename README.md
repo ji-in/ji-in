@@ -1,6 +1,6 @@
 ### Hi, I'm Ji In Kim 👋
 
-💻 I'm data scientist.  
+💻 I'm a data scientist.  
 😀 I'm currently studying generation model with face images.
 
 <!--
