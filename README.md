@@ -2,7 +2,7 @@
 
 💻 I'm a data scientist.  
 😀 I'm currently studying generation model with face images.
-🐯 CV : https://spiky-structure-971.notion.site/eaca51eb55a54c949b787aea5c599eed
+🐯 CV : [CV 링크](https://spiky-structure-971.notion.site/eaca51eb55a54c949b787aea5c599eed)
 <!--
 **ji-in/ji-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
