@@ -1,7 +1,5 @@
 ### Hi, I'm Ji In Kim 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fji-in&count_bg=%234CDB9A&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 💻 I'm a data scientist.  
 😀 I'm currently studying generation model with face images.  
 🐯 CV : [링크](https://spiky-structure-971.notion.site/eaca51eb55a54c949b787aea5c599eed)
