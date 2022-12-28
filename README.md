@@ -2,7 +2,6 @@
 
 💻 I'm a data scientist.  
 😀 I'm currently studying generation model with face images.  
-🐯 [CV]
 <!--
 **ji-in/ji-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
