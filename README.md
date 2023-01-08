@@ -2,7 +2,7 @@
 
 💻 I'm a data scientist.  
 😀 I studied image generation model.  
-🔭 I’m currently working on SK 
+🔭 I’m currently working on SK telecom.
 <!--
 **ji-in/ji-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
